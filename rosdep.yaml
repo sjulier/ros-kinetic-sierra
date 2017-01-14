@@ -1,0 +1,8 @@
+gazebo:
+  osx:
+    homebrew:
+      packages: [gazebo8 --HEAD]
+opencv3:
+  osx:
+    homebrew:
+      packages: [opencv3 --HEAD]
