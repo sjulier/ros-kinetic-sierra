@@ -1,4 +1,4 @@
-gazebo8:
+gazebo:
   osx:
     homebrew:
       packages: [gazebo8]
