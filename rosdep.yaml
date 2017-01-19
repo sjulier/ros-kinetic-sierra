@@ -2,11 +2,15 @@ gazebo:
   osx:
     homebrew:
       packages: [gazebo8]
+gazebo7:
+  osx:
+    homebrew:
+      packages: [gazebo8]
+libgazebo7-dev:
+  osx:
+    homebrew:
+      packages: [gazebo8]
 libgazebo8-dev:
   osx:
     homebrew:
       packages: [gazebo8]
-opencv3:
-  osx:
-    homebrew:
-      packages: [opencv3 --HEAD]
